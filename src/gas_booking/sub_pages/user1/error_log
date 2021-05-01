@@ -1,0 +1,21 @@
+[09-Apr-2021 15:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function float() in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 29
+[09-Apr-2021 15:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function float() in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php:28
+Stack trace:
+#0 {main}
+  thrown in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:44:06 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:44:21 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:44:37 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:44:53 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:45:09 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:45:25 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:45:41 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:45:57 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:46:02 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:46:17 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:46:33 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:46:49 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
+[09-Apr-2021 15:47:05 UTC] PHP Warning:  Division by zero in /home1/invenlly/public_html/2019/gas_booking/sub_pages/user1/u1.php on line 28
